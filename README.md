@@ -1,19 +1,17 @@
-### Hello there!
+### Hello there! 👋
 
-https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif
+![image](https://github.com/MarioGuerra21008/MarioGuerra21008/assets/88167635/070b0bc5-a738-45c3-974a-0fdf08f4be91)
 
+My name is Mario. I'm studying Computer Science at UVG 💻 
 
-<!--
-**MarioGuerra21008/MarioGuerra21008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can write me an email here --> marioguerra040503@gmail.com 📫
 
-Here are some ideas to get you started:
+Or DM me on Twitter/X, my profile is at my bio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My top languages: 🔝
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuerra21008&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Statistics: ☝️🤓
+
+![](https://github-readme-stats.vercel.app/api?username=MarioGuerra21008&layout=compact&theme=vision-friendly-dark)
