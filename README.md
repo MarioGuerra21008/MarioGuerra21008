@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there!
+
+![image](https://github.com/MarioGuerra21008/MarioGuerra21008/assets/88167635/46453aa3-1061-4dce-96d1-1ae5c7cc1e8a)
+
 
 <!--
 **MarioGuerra21008/MarioGuerra21008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
