@@ -6,8 +6,6 @@
 
 My name is Mario. I'm studying Computer Science at UVG 💻 
 
-You can write me an email here --> marioguerra040503@gmail.com 📫
-
 Or DM me on Twitter/X, my profile is at my bio.
 
 ### My top languages: 🔝
