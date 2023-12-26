@@ -6,7 +6,7 @@
 
 My name is Mario. I'm studying Computer Science at UVG 💻 
 
-Or DM me on Twitter/X, my profile is at my bio.
+DM me on Twitter/X, my profile is at my bio.
 
 ### My top languages: 🔝
 
