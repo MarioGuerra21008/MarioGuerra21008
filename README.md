@@ -6,8 +6,6 @@
 
 My name is Mario. I'm studying Computer Science at UVG 💻 
 
-DM me on Twitter/X, my profile is at my bio.
-
 ### My top languages: 🔝
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuerra21008&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
